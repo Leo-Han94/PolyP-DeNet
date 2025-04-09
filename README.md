@@ -17,7 +17,7 @@ You can choose PolyP-DeNet's model in PolyP-DeNet.yaml
 from ultralytics import YOLO
 
 # Load a model
-model = YOLO("WildB-YoLo.yaml") # pase model
+model = YOLO("Polyp-DeNet.yaml") # pase model
 
 # Train the model
 model.train(
