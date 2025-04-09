@@ -12,7 +12,7 @@ pip install timm==1.0.7 thop efficientnet_pytorch==0.7.1 einops grad-cam==1.4.8 
 pip install -e .
 ```
 ### Train
-You can choose PolyP-DeNet's model in PolyP-DeNet.yaml
+You can choose PolyP-DeNet's model in [PolyP-DeNet.yaml](https://raw.githubusercontent.com/Leo-Han94/PolyP-DeNet/refs/heads/main/ultralytics/cfg/models/11/Polyp-DeNet.yaml)
 ```bash
 from ultralytics import YOLO
 
